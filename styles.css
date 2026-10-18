@@ -439,7 +439,6 @@ h1 { margin: 0; font-size: clamp(24px, 2.6vw, 38px); font-weight: 500; letter-sp
   46%, 100% { opacity: 0; }
 }
 
-.pixel-interaction-hint { display: flex; align-items: center; gap: 9px; margin-top: 25px; color: #929298; font-size: 11px; line-height: 1.5; }
-.pixel-hint-cursor { flex: 0 0 17px; width: 17px; height: 22px; }
-.pixel-hint-arrow { flex: 0 0 30px; width: 30px; height: 15px; margin-left: 3px; }
+.pixel-interaction-hint { display: flex; align-items: center; gap: 9px; margin-top: 25px; color: #929298; font-size: 9px; line-height: 1.5; }
+.pixel-hint-arrow { flex: 0 0 32px; width: 32px; height: 19px; margin-left: 3px; }
 @media (hover: none) { .pixel-interaction-hint { display: none; } }

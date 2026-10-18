@@ -1,5 +1,12 @@
 (() => {
   'use strict';
+  const pixelHint = document.querySelector('#complexity .pixel-interaction-hint');
+  if (pixelHint) {
+    new IntersectionObserver(entries => {
+      pixelHint.classList.toggle('is-scroll-cue-active', entries[0].isIntersecting);
+    }, { threshold: .35 }).observe(pixelHint.closest('.slide'));
+  }
+
   document.querySelectorAll('.concept-intro-slide').forEach(slide => {
     const cue = slide.querySelector('.concept-scroll-cue');
     if (!cue) return;
