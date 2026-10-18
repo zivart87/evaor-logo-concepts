@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 536.93 131">
+  <defs>
+    <style>
+      .cls-1 {
+        mask: url(#mask-5);
+      }
+
+      .cls-2 {
+        filter: url(#luminosity-noclip-8);
+      }
+
+      .cls-3 {
+        mask: url(#mask-1);
+      }
+
+      .cls-4 {
+        mask: url(#mask-6);
+      }
+
+      .cls-5 {
+        mask: url(#mask-7);
+      }
+
+      .cls-6 {
+        filter: url(#luminosity-noclip-5);
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-8 {
+        mask: url(#mask);
+      }
+
+      .cls-9 {
+        stroke: url(#_Градієнт_без_назви_9-2);
+        stroke-width: 13px;
+      }
+
+      .cls-9, .cls-10, .cls-11 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-12 {
+        filter: url(#luminosity-noclip-2);
+      }
+
+      .cls-13 {
+        mix-blend-mode: color-burn;
+      }
+
+      .cls-14 {
+        mask: url(#mask-8);
+      }
+
+      .cls-15 {
+        mask: url(#mask-2);
+      }
+
+      .cls-16 {
+        filter: url(#luminosity-noclip-3);
+      }
+
+      .cls-17 {
+        isolation: isolate;
+      }
+
+      .cls-18 {
+        filter: url(#luminosity-noclip-9);
+      }
+
+      .cls-19 {
+        filter: url(#luminosity-noclip-6);
+      }
+
+      .cls-20 {
+        mix-blend-mode: overlay;
+      }
+
+      .cls-21 {
+        mix-blend-mode: luminosity;
+      }
+
+      .cls-22 {
+        filter: url(#luminosity-noclip-4);
+      }
+
+      .cls-10 {
+        stroke: url(#_Градієнт_без_назви_9);
+      }
+
+      .cls-10, .cls-11 {
+        stroke-width: 31px;
+      }
+
+      .cls-23 {
+        mask: url(#mask-4);
+      }
+
+      .cls-24 {
+        filter: url(#luminosity-noclip-7);
+      }
+
+      .cls-25 {
+        fill: #131116;
+      }
+
+      .cls-11 {
+        stroke: url(#_Градієнт_без_назви_9-3);
+      }
+
+      .cls-26 {
+        mix-blend-mode: hard-light;
+      }
+
+      .cls-27 {
+        mask: url(#mask-3);
+      }
+
+      .cls-28 {
+        filter: url(#luminosity-noclip);
+      }
+    </style>
+    <filter id="luminosity-noclip" x="308.46" y="-2.5" width="136" height="136" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask" x="308.46" y="-2.5" width="136" height="136" maskUnits="userSpaceOnUse">
+      <g class="cls-28">
+        <use transform="translate(308.46 -2.5)" xlink:href="#image"/>
+      </g>
+    </mask>
+    <linearGradient id="_Градієнт_без_назви_9" data-name="Градієнт без назви 9" x1="-471.63" y1="-47.68" x2="-340.63" y2="-47.68" gradientTransform="translate(783.05 113.18)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffddb7"/>
+      <stop offset="1" stop-color="#1a73e8"/>
+    </linearGradient>
+    <filter id="luminosity-noclip-2" x="343.46" y="6.5" width="67" height="118" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask-1" x="343.46" y="6.5" width="67" height="118" maskUnits="userSpaceOnUse">
+      <g class="cls-12">
+        <image width="67" height="118" transform="translate(343.46 6.5)" xlink:href="./aac7c35d7f8689f4144e.webp"/>
+      </g>
+    </mask>
+    <linearGradient id="_Градієнт_без_назви_9-2" data-name="Градієнт без назви 9" x1="-363.79" y1="86.79" x2="-250.79" y2="86.79" gradientTransform="translate(684.21 -21.29)" xlink:href="#_Градієнт_без_назви_9"/>
+    <filter id="luminosity-noclip-3" x="318.46" y="30.5" width="22" height="70" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask-2" x="318.46" y="30.5" width="22" height="70" maskUnits="userSpaceOnUse">
+      <g class="cls-16">
+        <image width="22" height="70" transform="translate(318.46 30.5)" xlink:href="./b667c309b9e04ab53103.webp"/>
+      </g>
+    </mask>
+    <filter id="luminosity-noclip-4" x="414.46" y="30.5" width="21" height="70" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask-3" x="414.46" y="30.5" width="21" height="70" maskUnits="userSpaceOnUse">
+      <g class="cls-22">
+        <image width="21" height="70" transform="translate(414.46 30.5)" xlink:href="./f52a86c6e7893c7718cf.webp"/>
+      </g>
+    </mask>
+    <filter id="luminosity-noclip-5" x="342.46" y="6.5" width="69" height="22" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask-4" x="342.46" y="6.5" width="69" height="22" maskUnits="userSpaceOnUse">
+      <g class="cls-6">
+        <image width="69" height="22" transform="translate(342.46 6.5)" xlink:href="./ce8d82b5479f23b42383.webp"/>
+      </g>
+    </mask>
+    <filter id="luminosity-noclip-6" x="342.46" y="102.5" width="69" height="22" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask-5" x="342.46" y="102.5" width="69" height="22" maskUnits="userSpaceOnUse">
+      <g class="cls-19">
+        <image width="69" height="22" transform="translate(342.46 102.5)" xlink:href="./236036bdb7e680337653.webp"/>
+      </g>
+    </mask>
+    <filter id="luminosity-noclip-7" x="342.46" y="6.5" width="69" height="22" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask-6" x="342.46" y="6.5" width="69" height="22" maskUnits="userSpaceOnUse">
+      <g class="cls-24">
+        <image width="69" height="22" transform="translate(342.46 6.5)" xlink:href="./a96ce676651582cc2cc2.webp"/>
+      </g>
+    </mask>
+    <filter id="luminosity-noclip-8" x="342.46" y="102.5" width="69" height="22" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask-7" x="342.46" y="102.5" width="69" height="22" maskUnits="userSpaceOnUse">
+      <g class="cls-2">
+        <image width="69" height="22" transform="translate(342.46 102.5)" xlink:href="./34ebf63ab23fea17c849.webp"/>
+      </g>
+    </mask>
+    <filter id="luminosity-noclip-9" x="308.46" y="-2.5" width="136" height="136" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask-8" x="308.46" y="-2.5" width="136" height="136" maskUnits="userSpaceOnUse">
+      <g class="cls-18">
+        <use transform="translate(308.46 -2.5)" xlink:href="#image"/>
+      </g>
+    </mask>
+    <linearGradient id="_Градієнт_без_назви_9-3" data-name="Градієнт без назви 9" x1="-471.63" x2="-340.63" xlink:href="#_Градієнт_без_назви_9"/>
+    <image id="image" width="136" height="136" xlink:href="./66d93a9f83a14b7d532f.webp"/>
+  </defs>
+  <g class="cls-17"><rect x="0" y="0" width="536.93" height="131" fill="#000"/>
+    <g id="_Шар_2" data-name="Шар 2">
+      <g id="_Шар_1-2" data-name="Шар 1">
+        <g>
+          <path class="cls-7" d="M10.78,108.65v-39.41h51.39v-9.89H9c-4.97,0-9,4.03-9,9v51.08l67.56-.89v-9.89H10.78ZM0,13.36v28.91c0,4.89,3.96,8.85,8.85,8.85h1.93v-28.76h54.98v-9.89L0,13.36Z"/>
+          <path class="cls-7" d="M175.96,12.47l-34.75,89.89h-.3L107.2,12.47h-11.99l40.3,106.07h10.79L187.64,12.47h-11.68Z"/>
+          <path class="cls-7" d="M252.02,12.47h-10.48l-21.01,48.29c-2.41,5.53-.01,11.98,5.43,14.6h0s20.82-50.31,20.82-50.31l22.93,55.73h-51.98c-3.58,0-6.82,2.12-8.25,5.41l-14.07,32.35h12.58l11.68-27.87h54.23l11.7,27.87h12.58L252.02,12.47Z"/>
+          <path class="cls-7" d="M506.36,68.2c17.39-1.5,27.12-12.74,27.12-27.42,0-19.03-13.34-28.31-34.91-28.31h-32.66v29.81c0,4.89,3.96,8.85,8.85,8.85h1.94v-28.78h19.17c19.33,0,25.92,8.24,25.92,18.42s-6.6,18.58-25.92,18.58h-20.96c-4.97,0-9,4.03-9,9v50.18h10.79v-49.29h17.97l29.07,49.29h13.18l-30.57-50.34Z"/>
+          <g>
+            <g class="cls-26">
+              <g class="cls-8">
+                <circle class="cls-10" cx="376.92" cy="65.5" r="50"/>
+              </g>
+            </g>
+            <path class="cls-7" d="M376.92,9.77c-31.62,0-55.28,23.52-55.28,55.73s23.66,55.73,55.28,55.73,55.28-23.52,55.28-55.73-23.66-55.73-55.28-55.73ZM376.92,111.34c-27.27,0-43.6-21.43-43.6-45.84s16.33-45.84,43.6-45.84,43.6,21.42,43.6,45.84-16.33,45.84-43.6,45.84Z"/>
+            <g class="cls-20">
+              <g class="cls-3">
+                <g>
+                  <path class="cls-7" d="M351.21,25.65c1.51-.49,3.07-.99,4.64-1.41,16.44-4.74,31.51-3.98,50.4,2.53h0c.48.17,1.02,0,1.31-.42l.55-.77c.31-.42.29-1-.04-1.41h0c-2.02-2.49-4.26-4.76-6.66-6.74-8.1-6.68-18.15-9.77-28.29-8.71-10.55,1.11-20.25,6.6-27.3,15.46h0c-.32.41-.34.98-.03,1.4l.55.77c.29.4.79.57,1.26.43h0c1.22-.36,2.44-.75,3.61-1.13Z"/>
+                  <path class="cls-7" d="M402.68,105.35c-1.51.49-3.07.99-4.64,1.41-16.44,4.74-31.51,3.98-50.4-2.53h0c-.48-.17-1.02,0-1.31.42l-.55.77c-.31.42-.29,1,.04,1.41h0c2.02,2.49,4.26,4.76,6.66,6.74,8.1,6.68,18.15,9.77,28.29,8.71,10.55-1.11,20.25-6.6,27.3-15.46h0c.32-.41.34-.98.03-1.4l-.55-.77c-.29-.4-.79-.57-1.26-.43h0c-1.22.36-2.44.75-3.61,1.13Z"/>
+                </g>
+              </g>
+            </g>
+            <circle class="cls-9" cx="376.92" cy="65.5" r="50"/>
+            <g class="cls-21">
+              <g class="cls-15">
+                <path class="cls-25" d="M336.49,92.1c-.44-1.56-.9-3.17-1.29-4.79-4.32-16.98-3.63-32.56,2.3-52.08h0c.15-.5,0-1.05-.38-1.36l-.7-.57c-.39-.32-.91-.3-1.28.04h0c-2.27,2.09-4.34,4.41-6.14,6.88-6.09,8.37-8.91,18.75-7.94,29.24,1.01,10.91,6.01,20.92,14.09,28.21h0c.37.33.89.35,1.27.03l.7-.57c.36-.3.52-.82.4-1.3h0c-.33-1.26-.68-2.52-1.03-3.73Z"/>
+              </g>
+            </g>
+            <g class="cls-21">
+              <g class="cls-27">
+                <path class="cls-25" d="M417.54,38.9c.44,1.56.9,3.17,1.29,4.79,4.32,16.98,3.63,32.56-2.3,52.08h0c-.15.5,0,1.05.38,1.36l.7.57c.39.32.91.3,1.28-.04h0c2.27-2.09,4.34-4.41,6.14-6.88,6.09-8.37,8.91-18.75,7.94-29.24-1.01-10.91-6.01-20.92-14.09-28.21h0c-.37-.33-.89-.35-1.27-.03l-.7.57c-.36.3-.52.82-.4,1.3h0c.33,1.26.68,2.52,1.03,3.73Z"/>
+              </g>
+            </g>
+            <g class="cls-21">
+              <g class="cls-23">
+                <path class="cls-7" d="M350.42,24.98c1.56-.44,3.17-.9,4.79-1.29,16.98-4.32,32.56-3.63,52.08,2.3h0c.5.15,1.05,0,1.36-.38l.57-.7c.32-.39.3-.91-.04-1.28h0c-2.09-2.27-4.41-4.34-6.88-6.14-8.37-6.09-18.75-8.91-29.24-7.94-10.91,1.01-20.92,6.01-28.21,14.09h0c-.33.37-.35.89-.03,1.27l.57.7c.3.36.82.52,1.3.4h0c1.26-.33,2.52-.68,3.73-1.03Z"/>
+              </g>
+            </g>
+            <g class="cls-21">
+              <g class="cls-1">
+                <path class="cls-7" d="M403.61,106.02c-1.56.44-3.17.9-4.79,1.29-16.98,4.32-32.56,3.63-52.08-2.3h0c-.5-.15-1.05,0-1.36.38l-.57.7c-.32.39-.3.91.04,1.28h0c2.09,2.27,4.41,4.34,6.88,6.14,8.37,6.09,18.75,8.91,29.24,7.94,10.91-1.01,20.92-6.01,28.21-14.09h0c.33-.37.35-.89.03-1.27l-.57-.7c-.3-.36-.82-.52-1.3-.4h0c-1.26.33-2.52.68-3.73,1.03Z"/>
+              </g>
+            </g>
+            <g class="cls-21">
+              <g class="cls-4">
+                <path class="cls-7" d="M350.42,24.98c1.56-.44,3.17-.9,4.79-1.29,16.98-4.32,32.56-3.63,52.08,2.3h0c.5.15,1.05,0,1.36-.38l.57-.7c.32-.39.3-.91-.04-1.28h0c-2.09-2.27-4.41-4.34-6.88-6.14-8.37-6.09-18.75-8.91-29.24-7.94-10.91,1.01-20.92,6.01-28.21,14.09h0c-.33.37-.35.89-.03,1.27l.57.7c.3.36.82.52,1.3.4h0c1.26-.33,2.52-.68,3.73-1.03Z"/>
+              </g>
+            </g>
+            <g class="cls-21">
+              <g class="cls-5">
+                <path class="cls-7" d="M403.61,106.02c-1.56.44-3.17.9-4.79,1.29-16.98,4.32-32.56,3.63-52.08-2.3h0c-.5-.15-1.05,0-1.36.38l-.57.7c-.32.39-.3.91.04,1.28h0c2.09,2.27,4.41,4.34,6.88,6.14,8.37,6.09,18.75,8.91,29.24,7.94,10.91-1.01,20.92-6.01,28.21-14.09h0c.33-.37.35-.89.03-1.27l-.57-.7c-.3-.36-.82-.52-1.3-.4h0c-1.26.33-2.52.68-3.73,1.03Z"/>
+              </g>
+            </g>
+            <g class="cls-13">
+              <g class="cls-14">
+                <circle class="cls-11" cx="376.92" cy="65.5" r="50"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
