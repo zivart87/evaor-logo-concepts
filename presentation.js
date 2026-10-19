@@ -1,5 +1,12 @@
 (() => {
   'use strict';
+  const photonSlide = document.querySelector('#logo-dark');
+  if (photonSlide) {
+    new IntersectionObserver(entries => {
+      photonSlide.classList.toggle('is-photon-active', entries[0].isIntersecting);
+    }, { threshold: .35 }).observe(photonSlide);
+  }
+
   const pixelHint = document.querySelector('#complexity .pixel-interaction-hint');
   if (pixelHint) {
     new IntersectionObserver(entries => {
