@@ -445,11 +445,11 @@ h1 { margin: 0; font-size: clamp(24px, 2.6vw, 38px); font-weight: 500; letter-sp
 
 .concept1-logo-layout { position: relative; display: grid; place-items: center; width: 100%; height: 100%; }
 .concept1-photon-logo { overflow: visible; }
-.concept1-photon-caption { position: absolute; top: calc(50% + 110px); left: 50%; transform: translateX(-50%); width: min(100%, 640px); margin: 0; color: #b8b8c0; text-align: center; font-size: clamp(12px, 1vw, 14px); line-height: 1.8; }
+.concept1-photon-caption { position: absolute; top: auto; bottom: 0; left: 50%; transform: translateX(-50%); width: min(100%, 640px); margin: 0; color: #b8b8c0; text-align: center; font-size: clamp(12px, 1vw, 14px); line-height: 1.8; }
 .photon-particle { opacity: 0; }
 .is-photon-active .photon-particle { animation: photon-gather 3.6s cubic-bezier(.22,.61,.36,1) var(--photon-delay) both; }
 @keyframes photon-gather {
   from { opacity: 0; transform: translate(var(--photon-x), var(--photon-y)); }
   to { opacity: 1; transform: translate(0, 0); }
 }
-@media (max-width: 700px) { .concept1-photon-caption { top: calc(50% + 80px); font-size: 11px; } }
+@media (max-width: 700px) { .concept1-photon-caption { top: auto; bottom: 0; font-size: 11px; } }
